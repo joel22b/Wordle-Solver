@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Compiled programs
+guess
+filterword
+
+# Guess files
+guess*.txt
